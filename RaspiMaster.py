@@ -21,5 +21,5 @@ print ("RPI: Hi Photon, I sent you somthing, reply with 1")
 time.sleep(1)
 
 number = readNumber()
-print ("Arduino: Hey RPI, I received a digit ", number)
+print ("Photon: Hey RPI, I received a digit ", number)
 
